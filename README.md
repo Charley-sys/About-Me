@@ -17,10 +17,14 @@ Welcome to my GitHub profile! I'm a dynamic and results-driven software develope
 
 🔗 LinkedIn: Charles Otieno
 
-🚀 Technical Skills
+🚀 Technical Skills:
+
 Languages: Python
+
 Frameworks: Flask
+
 Databases: MySQL
 
-🌱 Current Learning Focus
-I'm currently learning and diving more into Software Engineering with Power Learn Project.
+🌱 Current Learning Focus:
+
+I'm currently learning and diving more into Software Engineering at Power Learn Project.
