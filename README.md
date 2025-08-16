@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a dynamic and results-driven software develope
 
 Languages: Python
 
-Frameworks: Flask
+Frameworks: Flask/Django
 
 Databases: MySQL
 
