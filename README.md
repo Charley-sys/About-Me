@@ -34,8 +34,12 @@ I’m open to collaborating with developers, engineers, and innovators across th
 
 
 📍 Location: Nairobi, Kenya
+
 📫 Email: charlesotienoomondi@gmail.com
+
 📞 Phone: +254 743 971 067
+
 💬 WhatsApp: Chat with me
+
 🔗 LinkedIn: Charles Otieno
 
